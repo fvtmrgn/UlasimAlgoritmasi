@@ -1,0 +1,7 @@
+C:\Users\fte19\OneDrive\Masaüstü\Odev1\obj\Debug\Odev1.csproj.AssemblyReference.cache
+C:\Users\fte19\OneDrive\Masaüstü\Odev1\obj\Debug\Odev1.csproj.CoreCompileInputs.cache
+C:\Users\fte19\OneDrive\Masaüstü\Odev1\bin\Debug\Odev1.exe.config
+C:\Users\fte19\OneDrive\Masaüstü\Odev1\bin\Debug\Odev1.exe
+C:\Users\fte19\OneDrive\Masaüstü\Odev1\bin\Debug\Odev1.pdb
+C:\Users\fte19\OneDrive\Masaüstü\Odev1\obj\Debug\Odev1.exe
+C:\Users\fte19\OneDrive\Masaüstü\Odev1\obj\Debug\Odev1.pdb
